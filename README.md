@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 I'm a Computer Science student based in London
 
 Previous education:
-- [:it: High School] Graphich Design
 - [:cote_divoire: National University of Ireland] Economics, IT, Media (completed one year and then decided to switch to Computer Science)
+- [:it: High School] Graphich Design
+
+Courses I have completed:
+- [Code First Girls] Data & SQL
 
 Current extracurricular courses I'm taking:
-- [Code First Girls] Data & SQL
+- [Coursera] [Stanford Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
